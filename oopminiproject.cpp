@@ -10,7 +10,7 @@
 	The biggest advantage of this file handling approach is that the files entered
 	by the admin are always stored in the system till they are explictly deleted
 	by the database handler(in this case the user) thus the student data remains saved even
-	after repeated executions of the program.
+	after repeated executions of the program...
 	
 	In the student interface the student can retrieve his result from the previously
 	entered file and can see it in a formatted way that is easy to read
