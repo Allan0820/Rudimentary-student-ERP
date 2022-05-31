@@ -3,7 +3,7 @@
 	This is a rudimentary version of a student ERP system that is written using c++
     for operating the ERP user name is admin 
     password is password@1234
-    it consists of 2 basic interfaces i.e the admin and the student
+    it consists of 2 basic interfaces i.e the admin and the student.
     
     In the admin interface the admin can enter the student performance attendance and general feedback
 	which then gets written onto a file in the local directory named username+password.txt
